@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c8ff924-58a6-4071-9b7f-b0f1beb96482" name="Changes" comment="interview preparation questions document">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9c8ff924-58a6-4071-9b7f-b0f1beb96482" name="Changes" comment="prime number code">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/corejava/basics/SwapTwoNumbersWithoutThirdVariable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/practice/corejava/basics/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/practice/corejava/basics/PrimeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
+    "Application.SwapTwoNumbersWithoutThirdVariable.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -112,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747557841097</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="prime number code">
+      <option name="closed" value="true" />
+      <created>1750000211472</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750000211472</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +137,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="interview preparation questions document" />
-    <option name="LAST_COMMIT_MESSAGE" value="interview preparation questions document" />
+    <MESSAGE value="prime number code" />
+    <option name="LAST_COMMIT_MESSAGE" value="prime number code" />
   </component>
 </project>

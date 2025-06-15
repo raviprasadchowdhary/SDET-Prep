@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c8ff924-58a6-4071-9b7f-b0f1beb96482" name="Changes" comment="prime number code">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/corejava/basics/SwapTwoNumbersWithoutThirdVariable.java" afterDir="false" />
+    <list default="true" id="9c8ff924-58a6-4071-9b7f-b0f1beb96482" name="Changes" comment="SwapTwoNumbersWithoutThirdVariable">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/corejava/array/HighestNumberInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HighestNumberInArray.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.SwapTwoNumbersWithoutThirdVariable.executor": "Run",
@@ -120,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750000211472</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="SwapTwoNumbersWithoutThirdVariable">
+      <option name="closed" value="true" />
+      <created>1750004613635</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750004613635</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +147,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="interview preparation questions document" />
     <MESSAGE value="prime number code" />
-    <option name="LAST_COMMIT_MESSAGE" value="prime number code" />
+    <MESSAGE value="SwapTwoNumbersWithoutThirdVariable" />
+    <option name="LAST_COMMIT_MESSAGE" value="SwapTwoNumbersWithoutThirdVariable" />
   </component>
 </project>

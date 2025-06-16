@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9c8ff924-58a6-4071-9b7f-b0f1beb96482" name="Changes" comment="LengthOfString">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/corejava/Rough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/corejava/string/LengthOfString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750006565981</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="LengthOfString">
+      <option name="closed" value="true" />
+      <created>1750011944964</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1750011944964</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

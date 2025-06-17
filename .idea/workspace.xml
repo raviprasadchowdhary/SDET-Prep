@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c8ff924-58a6-4071-9b7f-b0f1beb96482" name="Changes" comment="CountVowelConsonantInString">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/corejava/basics/SumOfDigitsOfGivenNumber.java" afterDir="false" />
+    <list default="true" id="9c8ff924-58a6-4071-9b7f-b0f1beb96482" name="Changes" comment="ReverseString">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/corejava/string/ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Application.PrimeNumber.executor": "Run",
     "Application.PrintEvenOddInIntegerArray.executor": "Run",
     "Application.ReverseArray.executor": "Run",
+    "Application.ReverseString.executor": "Run",
     "Application.Rough.executor": "Run",
     "Application.SumOfDigitsOfGivenNumber.executor": "Run",
     "Application.SwapTwoNumbersWithoutThirdVariable.executor": "Run",
@@ -191,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750101309103</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="SumOfDigitsOfGivenNumber">
+      <option name="closed" value="true" />
+      <created>1750185439581</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1750185439581</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +225,8 @@
     <MESSAGE value="PrintEvenOddInIntegerArray" />
     <MESSAGE value="ReverseArray" />
     <MESSAGE value="CountVowelConsonantInString" />
-    <option name="LAST_COMMIT_MESSAGE" value="CountVowelConsonantInString" />
+    <MESSAGE value="SumOfDigitsOfGivenNumber" />
+    <MESSAGE value="ReverseString" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReverseString" />
   </component>
 </project>
